@@ -3,7 +3,10 @@
 To simulate a RC Pase Shift Oscillator and to verify the output.
 ## APPARATUS REQUIRED:
 PC with LT Spice software
+<img width="1600" height="1491" alt="image" src="https://github.com/user-attachments/assets/1e067f72-cb50-4d10-837e-70abcdf07a2c" />
+
 ## CIRCUIT DIAGRAM:
+<img width="1542" height="1600" alt="image" src="https://github.com/user-attachments/assets/ee5565be-f38d-40d2-b321-a10114b26486" />
 
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
@@ -39,7 +42,11 @@ PC with LT Spice software
 33.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 34.	## THEORITICAL CALCULATION:
-35.	
+<img width="836" height="1388" alt="image" src="https://github.com/user-attachments/assets/3be5a7ca-b598-4c37-916f-05598a7db91e" />
+<img width="794" height="1361" alt="image" src="https://github.com/user-attachments/assets/9f271f44-c4e1-44e3-a5ea-5762200bce86" />
+
 37.	## OUTPUTS:
+<img width="1600" height="895" alt="image" src="https://github.com/user-attachments/assets/08d9a68b-5842-404a-b7c9-e7c32fddd45d" />
 
 38.	## RESULT:
+<img width="1600" height="708" alt="image" src="https://github.com/user-attachments/assets/dc5516dd-9e38-4928-8c3f-6150cb1ac039" />
